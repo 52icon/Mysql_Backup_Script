@@ -1,12 +1,5 @@
 #!/bin/bash
-#Author:EVEC
-#Blog：http://evec.cc 
-#Version:1.0
 
-#清理环境
-rm -rf bf.sh 
-rm -rf bf.sh.*
- 
 #信息收集
 function cfg() {
 clear   
